@@ -17,14 +17,12 @@ E: niemingshuo@stumail.neu.edu.cn
 
 If you find this work useful in your research, please consider citing:
 
-> @misc{mingshuo2022reinforcement,
->       title={Reinforcement Learning on Graph: A Survey}, 
->       author={Nie Mingshuo and Chen Dongming and Wang Dongqi},
->       year={2022},
->       eprint={2204.06127},
->       archivePrefix={arXiv},
->       primaryClass={cs.LG}
-> }
+> @article{mingshuo2022reinforcement,
+>      title={Reinforcement Learning on Graph: A Survey},
+>      author={Mingshuo, Nie and Dongming, Chen and Dongqi, Wang},
+>      journal={arXiv preprint arXiv:2204.06127},
+>      year={2022}
+>    }
 
 
 # Reinforcement learning methods
