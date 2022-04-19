@@ -3,8 +3,6 @@ This open-source library is available to summarize several years of research pap
 
 For any ideas and literature on graph reinforcement learning, please contact me.
 
-
-
 Mingshuo Nie,
 
 Northeastern University, China.
