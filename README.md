@@ -20,11 +20,7 @@ Graph mining tasks arise from many different application domains, ranging from s
 
 If you find this work useful in your research, please consider citing:
 
-@article{mingshuo2022reinforcement,
-      title={Reinforcement learning on graphs: A survey},
-      author={Mingshuo, Nie and Dongming, Chen and Dongqi, Wang},
-      journal={arXiv preprint arXiv:2204.06127},
-      year={2022}
+@article{mingshuo2022reinforcement, title={Reinforcement learning on graphs: A survey}, author={Mingshuo, Nie and Dongming, Chen and Dongqi, Wang},journal={arXiv preprint arXiv:2204.06127}, year={2022}
 }
 
 
