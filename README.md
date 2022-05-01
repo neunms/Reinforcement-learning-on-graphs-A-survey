@@ -180,9 +180,9 @@ All the reinforcement learning methods used in the literature are as follows.
 
 # 2017
 
-| List | Year | Venue | Model    | Title                                                        | Algorithm | Paper                                                        | Code                                                 |
-| ---- | ---- | ----- | -------- | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | ---------------------------------------------------- |
-| o    | 2017 | NIPS  | S2V-DQN  | Learning Combinatorial Optimization Algorithms over Graphs   | QL        | [Paper](https://proceedings.neurips.cc/paper/2017/file/d9896106ca98d3d05b8cbdf4fd8b13a1-Paper.pdf) | [Code](https://github.com/Hanjun-Dai/graph_comb_opt) |
-| o    | 2017 | arXiv | Deeppath | Deeppath: A reinforcement learning method for knowledge graph reasoning | DQN       | [Paper](https://arxiv.org/abs/1707.06690)                    | [Code](https://github.com/xwhan/DeepPath)            |
-| o    | 2017 | ICLR  | MINERVA  | Go for a Walk and Arrive at the Answer: Reasoning Over Paths in Knowledge Bases using Reinforcement Learning | REINFORCE | [Paper](https://arxiv.org/abs/1711.05851)                    | [Code](https://github.com/shehzaadzd/MINERVA)        |
-| o    | 2017 | arXiv | KBGAN    | KBGAN: Adversarial Learning for Knowledge Graph Embeddings   | REINFORCE | [Paper](https://arxiv.org/abs/1711.04071)                    | [Code](https://github.com/cai-lw/KBGAN)              |
+| Year | Venue | Model    | Title                                                        | Algorithm | Paper                                                        | Code                                                 |
+| ---- | ----- | -------- | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | ---------------------------------------------------- |
+| 2017 | NIPS  | S2V-DQN  | Learning Combinatorial Optimization Algorithms over Graphs   | QL        | [Paper](https://proceedings.neurips.cc/paper/2017/file/d9896106ca98d3d05b8cbdf4fd8b13a1-Paper.pdf) | [Code](https://github.com/Hanjun-Dai/graph_comb_opt) |
+| 2017 | arXiv | Deeppath | Deeppath: A reinforcement learning method for knowledge graph reasoning | DQN       | [Paper](https://arxiv.org/abs/1707.06690)                    | [Code](https://github.com/xwhan/DeepPath)            |
+| 2017 | ICLR  | MINERVA  | Go for a Walk and Arrive at the Answer: Reasoning Over Paths in Knowledge Bases using Reinforcement Learning | REINFORCE | [Paper](https://arxiv.org/abs/1711.05851)                    | [Code](https://github.com/shehzaadzd/MINERVA)        |
+| 2017 | arXiv | KBGAN    | KBGAN: Adversarial Learning for Knowledge Graph Embeddings   | REINFORCE | [Paper](https://arxiv.org/abs/1711.04071)                    | [Code](https://github.com/cai-lw/KBGAN)              |
