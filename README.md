@@ -1,4 +1,5 @@
-# Reinforcement Learning on Graph: A Survey
+# Reinforcement learning on graphs: A survey
+
 This open-source library is available to summarize several years of research papers on graph reinforcement learning for the convenience of researchers.
 
 For any ideas and literature on graph reinforcement learning, please contact me.
@@ -11,7 +12,12 @@ E: niemingshuo@stumail.neu.edu.cn
 
 
 
-# Citation
+## Abstract
+
+> Graph mining tasks arise from many different application domains, ranging from social networks, transportation to E-commerce, etc., which have been receiving great attention from the theoretical and algorithmic design communities in recent years, and there has been some pioneering work employing the research-rich Reinforcement Learning (RL) techniques to address graph data mining tasks. However, these graph mining methods and RL models are dispersed in different research areas, which makes it hard to compare them. In this survey, we provide a comprehensive overview of RL and graph mining methods and generalize these methods to Graph Reinforcement Learning (GRL) as a unified formulation. We further discuss the applications of GRL methods across various domains and summarize the method descriptions, open-source codes, and benchmark datasets of GRL methods. Furthermore, we propose important directions and challenges to be solved in the future. As far as we know, this is the latest work on a comprehensive survey of GRL, this work provides a global view and a learning resource for scholars. In addition, we create an online open-source for both interested scholars who want to enter this rapidly developing domain and experts who would like to compare GRL methods.
+>
+
+## Citation
 
 If you find this work useful in your research, please consider citing:
 
@@ -50,6 +56,11 @@ All the reinforcement learning methods used in the literature are as follows.
 
 | Year | Venue                   | Model              | Title                                                        | Algorithm    | Paper                                                        | Code                                            |
 | ---- | ----------------------- | ------------------ | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | ----------------------------------------------- |
+| 2022 | IEEE TMC                | RedPacketBike      | RedPacketBike: A Graph-Based Demand Modeling and Crowd-Driven Station Rebalancing Framework for Bike Sharing Systems | MDP          | [Paper](https://ieeexplore.ieee.org/abstract/document/9693278) | \                                               |
+| 2022 | Knowledge-Based Systems | AFGSL              | AFGSL: Automatic Feature Generation based on Graph Structure Learning | Q-learning   | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705121010273) | \                                               |
+| 2022 | IEEE TETCI              | EDRL-IM            | Influence Maximization in Complex Networks by Using Evolutionary Deep Reinforcement Learning | DQN          | [Paper](https://ieeexplore.ieee.org/abstract/document/9679820) | \                                               |
+| 2022 | Applied Intelligence    | GraphPruning       | Graph pruning for model compression                          | DDPG         | [Paper](https://link.springer.com/article/10.1007/s10489-021-02802-8) | \                                               |
+| 2022 | IEEE TETCI              | RL-CSL             | RL-CSL: A Combinatorial Optimization Method Using Reinforcement Learning and Contrastive Self-Supervised Learning | REINFORCE    | [Paper](https://ieeexplore.ieee.org/document/9690950)        | \                                               |
 | 2022 | IEEE TPAMI              | DRL-DBSCAN         | Reinforced, Incremental and Cross-lingual Event Detection From Social Messages | MarGNN       | [Paper](https://ieeexplore.ieee.org/abstract/document/9693189) | [Code](https://github.com/RingBDStack/FinEvent) |
 | 2022 | IEEE TKDE               | RTGNN              | Multi-view Tensor Graph Neural Networks Through Reinforced Aggregation | MDP          | [Paper](https://ieeexplore.ieee.org/abstract/document/9711926) | [Code](https://github.com/RingBDStack/RTGNN)    |
 | 2022 | IEEE TKDE               | LUCE               | Lifelong Property Price Prediction: A Case Study for the Toronto Real Estate Market | MDP          | [Paper](https://ieeexplore.ieee.org/abstract/document/9551724) | [Code](https://github.com/RingBDStack/LUCE)     |
@@ -69,6 +80,12 @@ All the reinforcement learning methods used in the literature are as follows.
 
 | Year | Venue                                                        | Model         | Title                                                        | Algorithm      | Paper                                                        | Code                                                         |
 | ---- | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2021 | IEEE ICDM                                                    | GQNAS         | GQNAS: Graph Q Network for Neural Architecture Search        | DQN            | [Paper](https://ieeexplore.ieee.org/abstract/document/9679142) | \                                                            |
+| 2021 | SBP-BRiMS                                                    |               | Reinforcement Learning for Data Poisoning on Graph Neural Networks | REINFORCE      | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-80387-2_14) | \                                                            |
+| 2021 | IEEE ICCCS                                                   | GraphLight    | GraphLight: Graph-based Reinforcement Learning for Traffic Signal Control | REINFORCE      | [Paper](https://ieeexplore.ieee.org/abstract/document/9449147) | \                                                            |
+| 2021 | Neurocomputing                                               | MemoryPath    | MemoryPath: A deep reinforcement learning framework for incorporating memory component into knowledge graph reasoning | MDP            | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231220312959) | \                                                            |
+| 2021 | CP                                                           | Boffa et al.  | Neural combinatorial optimization beyond the TSP: Existing architectures under-represent graph structure | MDP            | [Paper](https://arxiv.org/abs/2006.07054v5)                  | [Code](https://github.com/chaitjo/learning-tsp)              |
+| 2021 | arXiv                                                        | HITTER        | Hypernetwork Dismantling via Deep Reinforcement Learning     | DQN            | [Paper](https://arxiv.org/abs/2104.14332)                    | \                                                            |
 | 2021 | IEEE ICDM                                                    | ACE-HGNN      | ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network | Nash Q-leaning | [Paper](https://ieeexplore.ieee.org/abstract/document/9679192) | \                                                            |
 | 2021 | ICML                                                         | SubgraphX     | On Explainability of Graph Neural Networks via Subgraph Explorations | MCTS           | [Paper](http://proceedings.mlr.press/v139/yuan21c/yuan21c.pdf) | [Code](https://github.com/divelab/DIG)                       |
 | 2021 | WWW                                                          | SUGAR         | SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism | QL             | [Paper](https://arxiv.org/pdf/2101.08170.pdf)                | [Code](https://github.com/RingBDStack/SUGAR)                 |
@@ -97,6 +114,8 @@ All the reinforcement learning methods used in the literature are as follows.
 
 | Year | Venue                                            | Model              | Title                                                        | Algorithm  | Paper                                                        | Code                                                         |
 | ---- | ------------------------------------------------ | ------------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2020 | SIGIR                                            | GCQN               | Reinforcement Learning based Recommendation with Graph Convolutional Q-network | Q-Learning | [Paper](https://dl.acm.org/doi/10.1145/3397271.3401237)      | \                                                            |
+| 2020 | Nature Machine Intelligence                      | FINDER             | Finding key players in complex networks through deep reinforcement learning | Q-Learning | [Paper](https://www.nature.com/articles/s42256-020-0177-2)   | [Code](https://github.com/FFrankyy/FINDER)                   |
 | 2020 | KDD                                              | Policy-GNN         | Policy-GNN: Aggregation Optimization for Graph Neural Networks | DQN        | [Paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403088)  | [Code](https://github.com/lhenry15/Policy-GNN)               |
 | 2020 | IJCAI                                            | eGCN               | Dynamic Electronic Toll Collection via Multi-Agent Deep Reinforcement Learning with Edge-Based Graph Convolutional Networks | MDP        | [Paper](https://www.ijcai.org/Proceedings/2019/0635.pdf)     | \                                                            |
 | 2020 | WWW                                              | NIPA               | Adversarial Attacks on Graph Neural Networks via Node Injections: A Hierarchical Reinforcement Learning Approach | DQN        | [Paper](https://par.nsf.gov/servlets/purl/10146600)          | \                                                            |
