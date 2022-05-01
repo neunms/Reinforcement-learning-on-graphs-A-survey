@@ -14,19 +14,18 @@ E: niemingshuo@stumail.neu.edu.cn
 
 ## Abstract
 
-> Graph mining tasks arise from many different application domains, ranging from social networks, transportation to E-commerce, etc., which have been receiving great attention from the theoretical and algorithmic design communities in recent years, and there has been some pioneering work employing the research-rich Reinforcement Learning (RL) techniques to address graph data mining tasks. However, these graph mining methods and RL models are dispersed in different research areas, which makes it hard to compare them. In this survey, we provide a comprehensive overview of RL and graph mining methods and generalize these methods to Graph Reinforcement Learning (GRL) as a unified formulation. We further discuss the applications of GRL methods across various domains and summarize the method descriptions, open-source codes, and benchmark datasets of GRL methods. Furthermore, we propose important directions and challenges to be solved in the future. As far as we know, this is the latest work on a comprehensive survey of GRL, this work provides a global view and a learning resource for scholars. In addition, we create an online open-source for both interested scholars who want to enter this rapidly developing domain and experts who would like to compare GRL methods.
->
+Graph mining tasks arise from many different application domains, ranging from social networks, transportation to E-commerce, etc., which have been receiving great attention from the theoretical and algorithmic design communities in recent years, and there has been some pioneering work employing the research-rich Reinforcement Learning (RL) techniques to address graph data mining tasks. However, these graph mining methods and RL models are dispersed in different research areas, which makes it hard to compare them. In this survey, we provide a comprehensive overview of RL and graph mining methods and generalize these methods to Graph Reinforcement Learning (GRL) as a unified formulation. We further discuss the applications of GRL methods across various domains and summarize the method descriptions, open-source codes, and benchmark datasets of GRL methods. Furthermore, we propose important directions and challenges to be solved in the future. As far as we know, this is the latest work on a comprehensive survey of GRL, this work provides a global view and a learning resource for scholars. In addition, we create an online open-source for both interested scholars who want to enter this rapidly developing domain and experts who would like to compare GRL methods.
 
 ## Citation
 
 If you find this work useful in your research, please consider citing:
 
-> @article{mingshuo2022reinforcement,
->      title={Reinforcement Learning on Graph: A Survey},
->      author={Mingshuo, Nie and Dongming, Chen and Dongqi, Wang},
->      journal={arXiv preprint arXiv:2204.06127},
->      year={2022}
->    }
+@article{mingshuo2022reinforcement,
+      title={Reinforcement learning on graphs: A survey},
+      author={Mingshuo, Nie and Dongming, Chen and Dongqi, Wang},
+      journal={arXiv preprint arXiv:2204.06127},
+      year={2022}
+}
 
 
 # Reinforcement learning methods
