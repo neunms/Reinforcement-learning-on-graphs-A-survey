@@ -1,4 +1,6 @@
 # Reinforcement learning on graphs: A survey
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+
 
 This open-source library is available to summarize several years of research papers on graph reinforcement learning for the convenience of researchers.
 
