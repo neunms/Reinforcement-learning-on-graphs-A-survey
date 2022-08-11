@@ -463,7 +463,7 @@ This is collected from the internal dataset published by Yelp.com, the largest b
 
 ## Amazon
 
-[[Dataset]([Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/#amazon)), [Paper](https://dl.acm.org/doi/abs/10.1145/2488388.2488466)]
+[[Dataset](http://snap.stanford.edu/data/#amazon), [Paper](https://dl.acm.org/doi/abs/10.1145/2488388.2488466)]
 
 A product co-purchasing network, where nodes represent products and edges link the products that are often purchased together. This network has a ground-truth community defined by the categories of products. In our experiment, we consider the top-500 communities, which consist of 4,259 nodes and 13,474 edges.
 
