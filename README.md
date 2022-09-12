@@ -26,63 +26,6 @@ If you find this work useful in your research, please consider citing:
 }
 ```
 
-# Reinforcement learning on graphs: A survey
-
-This open-source library is available to summarize several years of research papers on graph reinforcement learning for the convenience of researchers.
-
-For any ideas and literature on graph reinforcement learning, please contact me.
-
-Mingshuo Nie,
-
-Northeastern University, China.
-
-Email: niemingshuo@stumail.neu.edu.cn
-
-## Abstract
-
-> Graph mining tasks arise from many different application domains, including social networks, biological networks, transportation, and E-commerce, which have been receiving great attention from the theoretical and algorithmic design communities in recent years, and there has been some pioneering work employing the research-rich Reinforcement Learning (RL) techniques to address graph mining tasks. However, these fusion works are dispersed in different research domains, which makes them difficult to compare. In this survey, we provide a comprehensive overview of these fusion works and generalize these works to Graph Reinforcement Learning (GRL) as a unified formulation. We further discuss the applications of GRL methods across various domains, and simultaneously propose  the key challenges and advantages of integrating graph mining and RL methods. Furthermore, we propose important directions and challenges to be solved in the future. To our knowledge, this is the latest work on a comprehensive survey of GRL, this work provides a global view and a learning resource for scholars. Based on our review, we create a collection of papers for both interested scholars who want to enter this rapidly developing domain and experts who would like to compare GRL method.
-
-## Citation
-
-If you find this work useful in your research, please consider citing:
-```
-@article{mingshuo2022reinforcement, 
-        title={Reinforcement learning on graphs: A survey}, 
-        author={Mingshuo, Nie and Dongming, Chen and Dongqi, Wang},
-        journal={arXiv preprint arXiv:2204.06127}, 
-        year={2022}
-}
-```
-
-
-# Reinforcement learning on graphs: A survey
-
-This open-source library is available to summarize several years of research papers on graph reinforcement learning for the convenience of researchers.
-
-For any ideas and literature on graph reinforcement learning, please contact me.
-
-Mingshuo Nie,
-
-Northeastern University, China.
-
-Email: niemingshuo@stumail.neu.edu.cn
-
-## Abstract
-
-> Graph mining tasks arise from many different application domains, including social networks, biological networks, transportation, and E-commerce, which have been receiving great attention from the theoretical and algorithmic design communities in recent years, and there has been some pioneering work employing the research-rich Reinforcement Learning (RL) techniques to address graph mining tasks. However, these fusion works are dispersed in different research domains, which makes them difficult to compare. In this survey, we provide a comprehensive overview of these fusion works and generalize these works to Graph Reinforcement Learning (GRL) as a unified formulation. We further discuss the applications of GRL methods across various domains, and simultaneously propose  the key challenges and advantages of integrating graph mining and RL methods. Furthermore, we propose important directions and challenges to be solved in the future. To our knowledge, this is the latest work on a comprehensive survey of GRL, this work provides a global view and a learning resource for scholars. Based on our review, we create a collection of papers for both interested scholars who want to enter this rapidly developing domain and experts who would like to compare GRL method.
-
-## Citation
-
-If you find this work useful in your research, please consider citing:
-```
-@article{mingshuo2022reinforcement, 
-        title={Reinforcement learning on graphs: A survey}, 
-        author={Mingshuo, Nie and Dongming, Chen and Dongqi, Wang},
-        journal={arXiv preprint arXiv:2204.06127}, 
-        year={2022}
-}
-```
-
 
 # Graph Reinforcement learning methods
 
