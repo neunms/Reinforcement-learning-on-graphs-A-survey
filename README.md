@@ -1,4 +1,5 @@
 # Reinforcement learning on graphs: A survey
+[![Travis](https://img.shields.io/badge/arXiv-2204.06127-red)](https://arxiv.org/abs/2204.06127) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/neunms/Reinforcement-learning-on-graphs-A-survey"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/neunms/Reinforcement-learning-on-graphs-A-survey"> 
 
 This open-source library is available to summarize several years of research papers on graph reinforcement learning for the convenience of researchers.
 
