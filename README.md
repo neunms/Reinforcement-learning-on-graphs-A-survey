@@ -33,6 +33,9 @@ If you find this work useful in your research, please consider citing:
 
 # Awesome Graph Reinforcement Learning
 
+<img src="https://github.com/neunms/Reinforcement-learning-on-graphs-A-survey/blob/main/Categorized/grl_wordcloud.png" width = "500" height = "300" alt="" align=center />
+
+
 ## Quick Look
 
 The papers in the collection are categorized:
