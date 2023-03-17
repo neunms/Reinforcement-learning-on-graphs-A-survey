@@ -18,6 +18,7 @@
 | 2022 | ICLR           | AGILE       | Know Your Action Set: Learning Action Relations for Reinforcement Learning | PPO\DQN\CDQN | [Paper](https://openreview.net/forum?id=MljXVdp4A3N)         | [Code](https://github.com/clvrai/agile)                      |
 | 2022 | arXiv          | GTA-RL      | Solving Dynamic Graph Problems with Multi-Attention Deep Reinforcement Learning | REINFORCE    | [Paper](https://arxiv.org/abs/2201.04895)                    | [Code](https://github.com/udeshmg/GTA-RL)                    |
 | 2022 | CIKM           | Saha et al. | A Model-Centric Explainer for Graph Neural Network based Node Classification | REINFORCE    | [Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557535)  | [Code](https://github.com/KingGuzman/Node-Classifier-Explainer) |
+| 2022 | IEEE ITSC      | Liu et al.  | Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Interactive Traffic Scenarios | MDP          | [Paper](https://ieeexplore.ieee.org/abstract/document/9922001) | [Code](https://github.com/Jacklinkk/TorchGRL)                |
 
 # 2021
 
