@@ -2,7 +2,7 @@
 
 [![Travis](https://img.shields.io/badge/arXiv-2204.06127-red)](https://arxiv.org/abs/2204.06127) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/neunms/Reinforcement-learning-on-graphs-A-survey"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/neunms/Reinforcement-learning-on-graphs-A-survey"> <img alt="GitHub last commit" src="https://img.shields.io/badge/PRs-%20Welcome-orange">
 
-**Accepted by IEEE Transactions on Emerging Topics in Computational Intelligence**
+**Published by IEEE Transactions on Emerging Topics in Computational Intelligence**
 
 This collection of papers can be used to summarize research about graph reinforcement learning for the convenience of researchers.
 
@@ -21,11 +21,12 @@ Email: niemingshuo@stumail.neu.edu.cn
 If you find this work useful in your research, please consider citing:
 
 ```
-@article{mingshuo2022reinforcement, 
-        title={Reinforcement learning on graphs: A survey}, 
+@article{nie2023reinforcement, 
+        title={Reinforcement Learning on Graphs: A Survey}, 
         author={Mingshuo, Nie and Dongming, Chen and Dongqi, Wang},
-        journal={arXiv preprint arXiv:2204.06127}, 
-        year={2022}
+        journal={IEEE Transactions on Emerging Topics in Computational Intelligence}, 
+        year={2023},
+        doi={10.1109/TETCI.2022.3222545}
 }
 ```
 
