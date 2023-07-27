@@ -21,13 +21,18 @@ Email: niemingshuo@stumail.neu.edu.cn
 If you find this work useful in your research, please consider citing:
 
 ```
-@article{nie2023reinforcement, 
-        title={Reinforcement Learning on Graphs: A Survey}, 
-        author={Mingshuo, Nie and Dongming, Chen and Dongqi, Wang},
-        journal={IEEE Transactions on Emerging Topics in Computational Intelligence}, 
-        year={2023},
-        doi={10.1109/TETCI.2022.3222545}
+
+@article{nie2023reinforcement,
+  author={Nie, Mingshuo and Chen, Dongming and Wang, Dongqi},
+  journal={IEEE Transactions on Emerging Topics in Computational Intelligence}, 
+  title={Reinforcement Learning on Graphs: A Survey}, 
+  year={2023},
+  volume={7},
+  number={4},
+  pages={1065-1082},
+  doi={10.1109/TETCI.2022.3222545}
 }
+
 ```
 
 ------
