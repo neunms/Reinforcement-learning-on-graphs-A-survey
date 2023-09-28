@@ -1,3 +1,10 @@
+# 2023
+
+| Year | Venue          | Model       | Title                                                        | Algorithm    | Paper                                                        | Code                                                         |
+| ---- | -------------- | ----------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2023 |ICML | DeepIM | Deep Graph Representation Learning and Optimization for Influence Maximization | MDP | [Paper](https://proceedings.mlr.press/v202/ling23b.html) | [Code](https://github.com/triplej0079/DeepIM)   |
+| 2023 |CLeaR |MCD|A Meta-Reinforcement Learning Algorithm for Causal Discovery |Actor-Critic  | [Paper](https://proceedings.mlr.press/v213/sauter23a.html) |[Code](https://github.com/sa-and/MCD)   |
+
 # 2022
 
 | Year | Venue          | Model       | Title                                                        | Algorithm    | Paper                                                        | Code                                                         |
@@ -19,6 +26,8 @@
 | 2022 | arXiv          | GTA-RL      | Solving Dynamic Graph Problems with Multi-Attention Deep Reinforcement Learning | REINFORCE    | [Paper](https://arxiv.org/abs/2201.04895)                    | [Code](https://github.com/udeshmg/GTA-RL)                    |
 | 2022 | CIKM           | Saha et al. | A Model-Centric Explainer for Graph Neural Network based Node Classification | REINFORCE    | [Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557535)  | [Code](https://github.com/KingGuzman/Node-Classifier-Explainer) |
 | 2022 | IEEE ITSC      | Liu et al.  | Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Interactive Traffic Scenarios | MDP          | [Paper](https://ieeexplore.ieee.org/abstract/document/9922001) | [Code](https://github.com/Jacklinkk/TorchGRL)                |
+|2022| IEEE TII| DRL | Flexible job-shop scheduling via graph neural network and deep reinforcement learning | PPO |[Paper](https://ieeexplore.ieee.org/abstract/document/9826438)|[Code](https://github.com/songwenas12/fjsp-drl) |
+|2022| KBS|Zhu et al. | Step by step: A hierarchical framework for multi-hop knowledge graph reasoning with reinforcement learning | MDP|[Paper](https://www.sciencedirect.com/science/article/pii/S0950705122004026)|[Code](https://github.com/CC1st/step-by-step-mindspore)|
 
 # 2021
 
