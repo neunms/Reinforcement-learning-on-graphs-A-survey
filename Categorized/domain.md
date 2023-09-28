@@ -32,6 +32,9 @@
 | 2022 | AAAI                              | BiGeNe            | Batch Active Learning with Graph Neural Networks via Multi-Agent Deep Reinforcement Learning | DQN                                                  | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-4609.ZhangY.pdf) | \                                                            |
 | 2022 | arXiv                             | AdaNet            | Robust Knowledge Adaptation for Dynamic Graph Neural Networks | REINFORCE                                            | [Paper](https://arxiv.org/abs/2207.10839)                    | \                                                            |
 | 2022 | Annals of Operations Research     | CRL               | Counterfactual based reinforcement learning for graph neural networks | MolDQN                                               | [Paper](https://link.springer.com/article/10.1007/s10479-022-04978-9) | \                                                            |
+| 2023 |ICML | DeepIM | Deep Graph Representation Learning and Optimization for Influence Maximization | MDP | [Paper](https://proceedings.mlr.press/v202/ling23b.html) | [Code](https://github.com/triplej0079/DeepIM)   |
+| 2023 |IEEE TKDE |HGNAS++: |Efficient Architecture Search for Heterogeneous Graph Neural Networks  |MDP  | [Paper](https://ieeexplore.ieee.org/abstract/document/10040227) | \   |
+| 2023 |Information Sciences |DeepGNAS  |Search for deep graph neural networks  | DQN | [Paper](https://www.sciencedirect.com/science/article/pii/S0020025523012021) | \   |
 
 # Adversarial Attacks
 
@@ -47,6 +50,7 @@
 | 2022 | Neural Computing and Applications | Wu et al.      | Poisoning attacks against knowledge graph-based recommendation systems using deep reinforcement learning | MDP        | [Paper](https://link.springer.com/article/10.1007/s00521-021-06573-8) | \                                               |
 | 2022 | KDD                               | KGAttack       | Knowledge-enhanced Black-box Attacks for Recommendations     | AC         | [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539359)  | \                                               |
 | 2022 | IEEE TKDE                         | RL-GraphMI     | Model Inversion Attacks Against Graph Neural Networks        | Q-Learning | [Paper](https://ieeexplore.ieee.org/abstract/document/9895303) | [Code](https://github.com/zaixizhang/GraphMI)   |
+| 2023 |IJCNN | AdRumor-RL | Interpretable and Effective Reinforcement Learning for Attacking against Graph-based Rumor Detection | MDP | [Paper](https://ieeexplore.ieee.org/abstract/document/10191290) | \   |
 
 # Relational Reasoning
 
@@ -109,6 +113,12 @@
 | 2022 | CIKM                                    | KRAF         | A Flexible Advertising Framework using Knowledge Graph-Enriched Multi-Agent Reinforcement Learning | MARL         | [Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557373)  | \                                                            |
 | 2022 | CIKM                                    | GPR          | Two-Level Graph Path Reasoning for Conversational Recommendation with User Realistic Preference | DQN          | [Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557482)  | \                                                            |
 | 2022 | SSRN                                    | VRNet        | Knowledge Graph Relation Reasoning with Variational Reinforcement Network | MDP          | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4242013#) | \                                                            |
+|2022| KBS|Zhu et al. | Step by step: A hierarchical framework for multi-hop knowledge graph reasoning with reinforcement learning | MDP|[Paper](https://www.sciencedirect.com/science/article/pii/S0950705122004026)|[Code](https://github.com/CC1st/step-by-step-mindspore)|
+| 2023 |SDM | GARL | Causal Discovery by Graph Attention Reinforcement Learning | MDP | [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch4) | \   |
+| 2023 |Education and Information Technologies |MEUR  |Graph path fusion and reinforcement reasoning for recommendation in MOOCs | Actor-Critic | [Paper](https://link.springer.com/article/10.1007/s10639-022-11178-2) | \   |
+| 2023 |IEEE TKDE | TMER-RL |Reinforcement Learning based Path Exploration for Sequential Explainable Recommendation  | MDP | [Paper](https://ieeexplore.ieee.org/document/10018538) | \   |
+| 2023 |CLeaR |MCD|A Meta-Reinforcement Learning Algorithm for Causal Discovery |Actor-Critic  | [Paper](https://proceedings.mlr.press/v213/sauter23a.html) |[Code](https://github.com/sa-and/MCD)   |
+| 2023 |Applied Intelligence |RED  |Reinforcement learning-based denoising network for sequential recommendation  |MDP  | [Paper](https://link.springer.com/article/10.1007/s10489-022-03298-6) | \   |
 
 # Real-World Applications
 
@@ -201,6 +211,7 @@
 | 2022 | arXiv                                               | N-BLS        | Subgraph Matching via Query-Conditioned Subgraph Matching Neural Networks and Bi-Level Tree Search | MCTS       | [Paper](https://arxiv.org/abs/2207.10305)                    | \                                                         |
 | 2022 | techrxiv                                            | TOFA         | You Only Train Once: A highly generalizable reinforcement learning method for dynamic job shop scheduling problem | MDP        | [Paper](https://www.techrxiv.org/articles/preprint/You_Only_Train_Once_A_highly_generalizable_reinforcement_learning_method_for_dynamic_job_shop_scheduling_problem/20324070) | [Code](https://github.com/Yunhui1998/TOFA)                |
 | 2022 | arXiv                                               | LKH          | Solving the Traveling Salesperson Problem with Precedence Constraints by Deep Reinforcement Learning | MDP        | [Paper](https://arxiv.org/abs/2207.01443)                    | [Code](https://github.com/christianll9/tsppc-drl)         |
+|2022| IEEE TII| DRL | Flexible job-shop scheduling via graph neural network and deep reinforcement learning | PPO |[Paper](https://ieeexplore.ieee.org/abstract/document/9826438)|[Code](https://github.com/songwenas12/fjsp-drl) |
 
 ## Medicine
 
