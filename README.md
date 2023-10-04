@@ -1,6 +1,6 @@
 # Reinforcement learning on graphs: A survey
 
-[![Travis](https://img.shields.io/badge/arXiv-2204.06127-red)](https://arxiv.org/abs/2204.06127) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/neunms/Reinforcement-learning-on-graphs-A-survey"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/neunms/Reinforcement-learning-on-graphs-A-survey"> <img alt="GitHub last commit" src="https://img.shields.io/badge/PRs-%20Welcome-orange">
+[![Travis](https://img.shields.io/badge/IEEE-TETCI-red)](https://ieeexplore.ieee.org/document/10121200/) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/neunms/Reinforcement-learning-on-graphs-A-survey"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/neunms/Reinforcement-learning-on-graphs-A-survey"> <img alt="GitHub last commit" src="https://img.shields.io/badge/PRs-%20Welcome-orange">
 
 **Published by IEEE Transactions on Emerging Topics in Computational Intelligence**
 
