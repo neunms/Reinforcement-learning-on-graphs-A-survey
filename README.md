@@ -1,4 +1,4 @@
-# Reinforcement learning on graphs: A survey
+# [Reinforcement Learning on Graphs: A Survey](https://ieeexplore.ieee.org/document/10121200)
 
 [![Travis](https://img.shields.io/badge/IEEE-TETCI-red)](https://ieeexplore.ieee.org/document/10121200/) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/neunms/Reinforcement-learning-on-graphs-A-survey"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/neunms/Reinforcement-learning-on-graphs-A-survey"> <img alt="GitHub last commit" src="https://img.shields.io/badge/PRs-%20Welcome-orange">
 
