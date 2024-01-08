@@ -4,6 +4,8 @@
 | ---- | -------------- | ----------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2023 |ICML | DeepIM | Deep Graph Representation Learning and Optimization for Influence Maximization | MDP | [Paper](https://proceedings.mlr.press/v202/ling23b.html) | [Code](https://github.com/triplej0079/DeepIM)   |
 | 2023 |CLeaR |MCD|A Meta-Reinforcement Learning Algorithm for Causal Discovery |Actor-Critic  | [Paper](https://proceedings.mlr.press/v213/sauter23a.html) |[Code](https://github.com/sa-and/MCD)   |
+| 2023 |MLSys |X-RLflow|X-RLflow: Graph Reinforcement Learning for Neural Network Subgraphs Transformation |PPO | [Paper](https://proceedings.mlsys.org/paper_files/paper/2023/hash/f89b79c9a28d4cae22ef9e557d9fa191-Abstract-mlsys2023.html) |[Code](https://github.com/ucamrl/xrlflow) |
+| 2023 |Conference of the European Chapter of the Association for Computational Linguistics |Jiang et al.|Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning |REINFORCE | [Paper](https://aclanthology.org/2023.eacl-main.232/) |[Code](https://github.com/rubickkcibur/PSAgent) |
 
 # 2022
 
