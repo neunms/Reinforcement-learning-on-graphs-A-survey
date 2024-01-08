@@ -3,13 +3,19 @@
 | ---- | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2023 |SDM | GARL | Causal Discovery by Graph Attention Reinforcement Learning | MDP | [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch4) | \   |
 | 2023 |Education and Information Technologies |MEUR  |Graph path fusion and reinforcement reasoning for recommendation in MOOCs | Actor-Critic | [Paper](https://link.springer.com/article/10.1007/s10639-022-11178-2) | \   |
-| 2023 |IJCNN | AdRumor-RL | Interpretable and Effective Reinforcement Learning for Attacking against Graph-based Rumor Detection | MDP | [Paper]() | \   |
+| 2023 |IJCNN | AdRumor-RL | Interpretable and Effective Reinforcement Learning for Attacking against Graph-based Rumor Detection | MDP | [Paper](https://ieeexplore.ieee.org/abstract/document/10191290) | \   |
 | 2023 |ICML | DeepIM | Deep Graph Representation Learning and Optimization for Influence Maximization | MDP | [Paper](https://proceedings.mlr.press/v202/ling23b.html) | [Code](https://github.com/triplej0079/DeepIM)   |
 | 2023 |IEEE TKDE |HGNAS++: |Efficient Architecture Search for Heterogeneous Graph Neural Networks  |MDP  | [Paper](https://ieeexplore.ieee.org/abstract/document/10040227) | \   |
 | 2023 |IEEE TKDE | TMER-RL |Reinforcement Learning based Path Exploration for Sequential Explainable Recommendation  | MDP | [Paper](https://ieeexplore.ieee.org/document/10018538) | \   |
 | 2023 |Information Sciences |DeepGNAS  |Search for deep graph neural networks  | DQN | [Paper](https://www.sciencedirect.com/science/article/pii/S0020025523012021) | \   |
 | 2023 |CLeaR |MCD|A Meta-Reinforcement Learning Algorithm for Causal Discovery |Actor-Critic  | [Paper](https://proceedings.mlr.press/v213/sauter23a.html) |[Code](https://github.com/sa-and/MCD)   |
 | 2023 |Applied Intelligence |RED  |Reinforcement learning-based denoising network for sequential recommendation  |MDP  | [Paper](https://link.springer.com/article/10.1007/s10489-022-03298-6) | \   |
+| 2023 |Aiche Journal |Stops et al. |Flowsheet generation through hierarchical reinforcement learning and graph neural networks |Actor-Critic | [Paper](https://aiche.onlinelibrary.wiley.com/doi/full/10.1002/aic.17938) | \ |
+| 2023 |MLSys |X-RLflow |X-RLflow: Graph Reinforcement Learning for Neural Network Subgraphs Transformation |PPO | [Paper](https://proceedings.mlsys.org/paper_files/paper/2023/hash/f89b79c9a28d4cae22ef9e557d9fa191-Abstract-mlsys2023.html) | [Code](https://github.com/ucamrl/xrlflow) |
+| 2023 |Knowledge-Based Systems |DeepMAG |DeepMAG: Deep reinforcement learning with multi-agent graphs for flexible job shop scheduling |MARL | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011790) | \ |
+| 2023 |IET Gener. Transm. Distrib. |GraphSAGE-D3QN |An emergency control strategy for undervoltage load shedding of power system: A graph deep reinforcement learning method |D3QN | [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.12795) | \ |
+| 2023 |Information Sciences |BDRL |Solving combinatorial optimization problems over graphs with BERT-Based Deep Reinforcement Learning |REINFORCE | [Paper](https://www.sciencedirect.com/science/article/pii/S0020025522013627#s0025) | \ |
+| 2023 |Conference of the European Chapter of the Association for Computational Linguistics |Jiang et al. |Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning |REINFORCE | [Paper](https://aclanthology.org/2023.eacl-main.232/) | [Code](https://github.com/rubickkcibur/PSAgent) |
 
 
 # 2022
