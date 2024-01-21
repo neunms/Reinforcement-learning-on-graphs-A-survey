@@ -41,6 +41,9 @@ If you find this work useful in your research, please consider citing:
 
 <img src="https://github.com/neunms/Reinforcement-learning-on-graphs-A-survey/blob/main/Categorized/grl_wordcloud.png" width = "500" height = "300" alt="" align=center />
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=neunms/Reinforcement-learning-on-graphs-A-survey&type=Date)](https://star-history.com/#neunms/Reinforcement-learning-on-graphs-A-survey&Date)
 
 ## Quick Look
 
