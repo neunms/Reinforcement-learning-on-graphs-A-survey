@@ -43,7 +43,7 @@ If you find this work useful in your research, please consider citing:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=neunms/Reinforcement-learning-on-graphs-A-survey&type=Date)](https://star-history.com/#neunms/Reinforcement-learning-on-graphs-A-survey&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=neunms/Reinforcement-learning-on-graphs-A-survey&type=Timeline)](https://star-history.com/#neunms/Reinforcement-learning-on-graphs-A-survey&Timeline)
 
 ## Quick Look
 
