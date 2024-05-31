@@ -53,5 +53,3 @@ The papers in the collection are categorized:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=neunms/Reinforcement-learning-on-graphs-A-survey&type=Timeline)](https://star-history.com/#neunms/Reinforcement-learning-on-graphs-A-survey&Timeline)
 
-
-
