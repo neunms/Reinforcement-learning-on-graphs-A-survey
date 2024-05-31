@@ -41,10 +41,6 @@ If you find this work useful in your research, please consider citing:
 
 <img src="https://github.com/neunms/Reinforcement-learning-on-graphs-A-survey/blob/main/Categorized/grl_wordcloud.png" width = "500" height = "300" alt="" align=center />
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=neunms/Reinforcement-learning-on-graphs-A-survey&type=Timeline)](https://star-history.com/#neunms/Reinforcement-learning-on-graphs-A-survey&Timeline)
-
 ## Quick Look
 
 The papers in the collection are categorized:
@@ -53,25 +49,9 @@ The papers in the collection are categorized:
 - By [year](Categorized/year.md)
 - By [papers with code](Categorized/papers-with-code.md)
 
-## RL method
+## Star History
 
-All the reinforcement learning methods used in the literature are as follows.
+[![Star History Chart](https://api.star-history.com/svg?repos=neunms/Reinforcement-learning-on-graphs-A-survey&type=Timeline)](https://star-history.com/#neunms/Reinforcement-learning-on-graphs-A-survey&Timeline)
 
-| RL method                           | Abbr.      | Year | Paper                                                        |
-| ----------------------------------- | ---------- | ---- | ------------------------------------------------------------ |
-| Markov Decision Process             | MDP        | \    | \                                                            |
-| Monte Carlo Tree Search             | MCTS       | \    | \                                                            |
-| Q-learning                          | Q-learning | 1992 | [Paper](https://link.springer.com/article/10.1007/BF00992698) |
-| REINFORCE                           | REINFORCE  | 1992 | [Paper](https://link.springer.com/article/10.1007/BF00992696) |
-| Actor-Critic                        | AC         | 1999 | [Paper](https://proceedings.neurips.cc/paper/1999/hash/6449f44a102fde848669bdd9eb6b76fa-Abstract.html) |
-| Bernoulli Multi-armed Bandit        | BMAB       | 2005 | [Paper](https://link.springer.com/chapter/10.1007/11564096_42) |
-| Neural Fitted Q-iteration           | NFQI       | 2005 | [Paper](https://link.springer.com/chapter/10.1007/11564096_32) |
-| Deep Q-learning Network             | DQN        | 2015 | [Paper](https://www.nature.com/articles/nature14236?wm=book_wap_0005) |
-| Double DQN                          | DDQN       | 2016 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/10295) |
-| Advantage Actor-Critic              | A2C        | 2016 | [Paper](http://proceedings.mlr.press/v48/mniha16.html?ref=https://githubhelp.com) |
-| Asynchronous Advantage Actor-Critic | A3C        | 2016 | [Paper](http://proceedings.mlr.press/v48/mniha16.html?ref=https://githubhelp.com) |
-| Deep Deterministic Policy Gradient  | DDPG       | 2016 | [Paper](https://arxiv.org/pdf/1509.02971.pdf)                |
-| Proximal Policy Optimization        | PPO        | 2017 | [Paper](https://arxiv.org/abs/1707.06347)                    |
-| Cascaded DQN                        | CDQN       | 2019 | [Paper](http://proceedings.mlr.press/v97/chen19f.html)       |
 
 
