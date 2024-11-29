@@ -13,7 +13,7 @@ Northeastern University, China.
 Email: niemingshuo@stumail.neu.edu.cn
 
 # News
-!!! Our new work has been published in the **IEEE Transactions on Computational Social Systems**: [AutoDAW: Automated Data Augmentation for Graphs With Weak Information](https://ieeexplore.ieee.org/document/10755963)
+\[18 November 2024\] Our new work has been published in the **IEEE Transactions on Computational Social Systems**: [AutoDAW: Automated Data Augmentation for Graphs With Weak Information](https://ieeexplore.ieee.org/document/10755963)
 ```
 @article{nie2023autodaw,
   author={Nie, Mingshuo and Chen, Dongming and Wang, Dongqi and Chen, Huilin},
